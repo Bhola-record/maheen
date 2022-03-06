@@ -2,7 +2,7 @@
 
 import os ,time,sys
 
-key="c00fe42c2c78489490~~KING=="
+key="c52f65b328f244cbae~~KING=="
 
 def t(z):
     for e in z + "\n":
